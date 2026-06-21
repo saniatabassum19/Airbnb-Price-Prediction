@@ -57,7 +57,4 @@ Then open the local Streamlit URL shown in the terminal.
 - The model trains on `Airbnb Data/Airbnb_Data.csv` when the app starts.
 - The prediction output is transformed from a log price to a USD nightly price.
 - Advanced latitude/longitude inputs are optional.
-
-## License
-
-This project is provided as-is for demonstration and experimentation.
+ 
